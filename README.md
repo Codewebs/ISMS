@@ -9,9 +9,9 @@ An android application which allow you to send bulk SMS to your Contacts, To a l
 
 ## III-Credits
 To develop this small module, like any professional developer, -_- I copied the work of:
-1. Warehouse Contacts
-2. Gradient Login
-And of course I did a lot of research on stackOverflow (Long Live StackOverflow)
+1. Contacts Entrepot : https://github.com/ranitraj/ContactsEntrepot
+2. Gradient Login : https://github.com/qureshiayaz29/GradientLogin
+3. And of course I did a lot of research on stackOverflow (Long Live StackOverflow)
 All button artwork mostly copied from www.flaticon.com and www.freepik.com
 
 You can find the apk version on google play by following this link:
