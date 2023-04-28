@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">ISMS : Send Bulk Messages</string>
+    <string name="import_contacts">Import Contacts</string>
+    <string name="export_contacts">Export Into Excel</string>
+    <string name="read_excel_data">Read From Excel</string>
+    <string name="enter_phone">Enter a phone number</string>
+    <string name="enter_message_here">Enter message here</string>
+    <string name="retry">Retry</string>
+    <string name="select_all">Select All</string>
+    <string name="sms_disabled">SMS usage disabled</string>
+    <string name="send_a_message">Send a message</string>
+    <string name="permission_not_granted">PERMISSION NOT GRANTED!</string>
+
+    <string name="action_share">Share</string>
+    <string name="action_upload">Upload</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_pick">Select SIM</string>
+    <string name="action_print">Print</string>
+    <string name="cancel">Cancel</string>
+    <string name="start">Start</string>
+    <string name="dialog_start_send">Start Sending</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- NOTIFFICATION -->
+    <string name="chanel_notif_excel">ISMS Sending</string>
+    <string name="chanel_Desc_excel">Sending Excel SMS</string>
+    <string name="ContactCardDescription">SMS to Contacts</string>
+    <string name="ExcelCardDescription">SMS To Excel File</string>
+    <string name="InlineCardDescription">Direct SMS </string>
+    <string name="SettingCardDescription">Settings</string>
+    <string name="ChooseSim">Choose Sim</string>
+    <string name="buy_coffeeDonation">Buy a coffee (Make a donation)</string>
+    <string name="change">Change</string>
+    <string name="buycoff">Buy a coffee</string>
+    <string name="latence">Latence between messages</string>
+    <string name="permissGrant">Permissions granted</string>
+    <string name="seconds">2</string>
+    <string name="hintHMSms">50</string>
+    <string name="permission1">SMS</string>
+    <string name="permission2">Contacts</string>
+    <string name="permission3">Storage</string>
+    <string name="permission4">Notification</string>
+    <string name="btnActive">DESACTIVE</string>
+    <string name="usenumcourt">User short</string>
+    <string name="HowManyNumByNum">How Number by Phone Number ?</string>
+    <string name="SmscCenter">Message Service Center</string>
+    <string name="textSmscDescription">What is SMSC (Click Here) ?</string>
+    <string name="btnDesactive">Disable</string>
+    <string name="vide">---</string>
+    <string name="nothing"></string>
+    <string name="textPersonName">Name</string>
+    <string name="phone">Phone</string>
+    <string name="sms">SMS</string>
+    <string name="editHowManyChiff">9</string>
+    <string name="editHowManySmsc">+23769100101</string>
+    <string name="editNumCourt">+237 , +1 , +12 </string>
+    <string name="HowManyBetween">How Many SMS between Ad</string>
+    <string name="secondDescription">Seconds (Cannot be less than 2 sec)</string>
+    <string name="descriptionAdSms">If you have a big heart, leave this parameter at 50 otherwise, you can go up to 150</string>
+    <string name="donateDesc">If you like this little free app, you can buy a little coffee from us.</string>
+    <string name="oneSlotOnly">Only one SIM Slot connected, nothing to change</string>
+
+</resources>
